@@ -1,0 +1,14 @@
+C:\Users\kokol\Desktop\SEDC\C#Basic Homework\SEDC.Oop.Class03.Homework\SEDC.Oop.Class03.Homework.StudentGroup\bin\Debug\netcoreapp3.1\SEDC.Oop.Class03.Homework.StudentGroup.exe
+C:\Users\kokol\Desktop\SEDC\C#Basic Homework\SEDC.Oop.Class03.Homework\SEDC.Oop.Class03.Homework.StudentGroup\bin\Debug\netcoreapp3.1\SEDC.Oop.Class03.Homework.StudentGroup.deps.json
+C:\Users\kokol\Desktop\SEDC\C#Basic Homework\SEDC.Oop.Class03.Homework\SEDC.Oop.Class03.Homework.StudentGroup\bin\Debug\netcoreapp3.1\SEDC.Oop.Class03.Homework.StudentGroup.runtimeconfig.json
+C:\Users\kokol\Desktop\SEDC\C#Basic Homework\SEDC.Oop.Class03.Homework\SEDC.Oop.Class03.Homework.StudentGroup\bin\Debug\netcoreapp3.1\SEDC.Oop.Class03.Homework.StudentGroup.runtimeconfig.dev.json
+C:\Users\kokol\Desktop\SEDC\C#Basic Homework\SEDC.Oop.Class03.Homework\SEDC.Oop.Class03.Homework.StudentGroup\bin\Debug\netcoreapp3.1\SEDC.Oop.Class03.Homework.StudentGroup.dll
+C:\Users\kokol\Desktop\SEDC\C#Basic Homework\SEDC.Oop.Class03.Homework\SEDC.Oop.Class03.Homework.StudentGroup\bin\Debug\netcoreapp3.1\SEDC.Oop.Class03.Homework.StudentGroup.pdb
+C:\Users\kokol\Desktop\SEDC\C#Basic Homework\SEDC.Oop.Class03.Homework\SEDC.Oop.Class03.Homework.StudentGroup\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Homework.StudentGroup.csproj.AssemblyReference.cache
+C:\Users\kokol\Desktop\SEDC\C#Basic Homework\SEDC.Oop.Class03.Homework\SEDC.Oop.Class03.Homework.StudentGroup\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Homework.StudentGroup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kokol\Desktop\SEDC\C#Basic Homework\SEDC.Oop.Class03.Homework\SEDC.Oop.Class03.Homework.StudentGroup\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Homework.StudentGroup.AssemblyInfoInputs.cache
+C:\Users\kokol\Desktop\SEDC\C#Basic Homework\SEDC.Oop.Class03.Homework\SEDC.Oop.Class03.Homework.StudentGroup\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Homework.StudentGroup.AssemblyInfo.cs
+C:\Users\kokol\Desktop\SEDC\C#Basic Homework\SEDC.Oop.Class03.Homework\SEDC.Oop.Class03.Homework.StudentGroup\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Homework.StudentGroup.csproj.CoreCompileInputs.cache
+C:\Users\kokol\Desktop\SEDC\C#Basic Homework\SEDC.Oop.Class03.Homework\SEDC.Oop.Class03.Homework.StudentGroup\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Homework.StudentGroup.dll
+C:\Users\kokol\Desktop\SEDC\C#Basic Homework\SEDC.Oop.Class03.Homework\SEDC.Oop.Class03.Homework.StudentGroup\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Homework.StudentGroup.pdb
+C:\Users\kokol\Desktop\SEDC\C#Basic Homework\SEDC.Oop.Class03.Homework\SEDC.Oop.Class03.Homework.StudentGroup\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Homework.StudentGroup.genruntimeconfig.cache

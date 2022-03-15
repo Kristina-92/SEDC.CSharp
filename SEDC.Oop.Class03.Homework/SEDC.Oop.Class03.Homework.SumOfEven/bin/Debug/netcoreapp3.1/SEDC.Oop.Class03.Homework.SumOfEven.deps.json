@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SEDC.Oop.Class03.Homework.SumOfEven/1.0.0": {
+        "runtime": {
+          "SEDC.Oop.Class03.Homework.SumOfEven.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEDC.Oop.Class03.Homework.SumOfEven/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\kokol\Desktop\SEDC\C#Basic Homework\SEDC.Oop.Class03.Homework\SEDC.Oop.Class03.Homework.SumOfEven\bin\Debug\netcoreapp3.1\SEDC.Oop.Class03.Homework.SumOfEven.exe
+C:\Users\kokol\Desktop\SEDC\C#Basic Homework\SEDC.Oop.Class03.Homework\SEDC.Oop.Class03.Homework.SumOfEven\bin\Debug\netcoreapp3.1\SEDC.Oop.Class03.Homework.SumOfEven.deps.json
+C:\Users\kokol\Desktop\SEDC\C#Basic Homework\SEDC.Oop.Class03.Homework\SEDC.Oop.Class03.Homework.SumOfEven\bin\Debug\netcoreapp3.1\SEDC.Oop.Class03.Homework.SumOfEven.runtimeconfig.json
+C:\Users\kokol\Desktop\SEDC\C#Basic Homework\SEDC.Oop.Class03.Homework\SEDC.Oop.Class03.Homework.SumOfEven\bin\Debug\netcoreapp3.1\SEDC.Oop.Class03.Homework.SumOfEven.runtimeconfig.dev.json
+C:\Users\kokol\Desktop\SEDC\C#Basic Homework\SEDC.Oop.Class03.Homework\SEDC.Oop.Class03.Homework.SumOfEven\bin\Debug\netcoreapp3.1\SEDC.Oop.Class03.Homework.SumOfEven.dll
+C:\Users\kokol\Desktop\SEDC\C#Basic Homework\SEDC.Oop.Class03.Homework\SEDC.Oop.Class03.Homework.SumOfEven\bin\Debug\netcoreapp3.1\SEDC.Oop.Class03.Homework.SumOfEven.pdb
+C:\Users\kokol\Desktop\SEDC\C#Basic Homework\SEDC.Oop.Class03.Homework\SEDC.Oop.Class03.Homework.SumOfEven\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Homework.SumOfEven.csproj.AssemblyReference.cache
+C:\Users\kokol\Desktop\SEDC\C#Basic Homework\SEDC.Oop.Class03.Homework\SEDC.Oop.Class03.Homework.SumOfEven\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Homework.SumOfEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kokol\Desktop\SEDC\C#Basic Homework\SEDC.Oop.Class03.Homework\SEDC.Oop.Class03.Homework.SumOfEven\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Homework.SumOfEven.AssemblyInfoInputs.cache
+C:\Users\kokol\Desktop\SEDC\C#Basic Homework\SEDC.Oop.Class03.Homework\SEDC.Oop.Class03.Homework.SumOfEven\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Homework.SumOfEven.AssemblyInfo.cs
+C:\Users\kokol\Desktop\SEDC\C#Basic Homework\SEDC.Oop.Class03.Homework\SEDC.Oop.Class03.Homework.SumOfEven\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Homework.SumOfEven.csproj.CoreCompileInputs.cache
+C:\Users\kokol\Desktop\SEDC\C#Basic Homework\SEDC.Oop.Class03.Homework\SEDC.Oop.Class03.Homework.SumOfEven\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Homework.SumOfEven.dll
+C:\Users\kokol\Desktop\SEDC\C#Basic Homework\SEDC.Oop.Class03.Homework\SEDC.Oop.Class03.Homework.SumOfEven\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Homework.SumOfEven.pdb
+C:\Users\kokol\Desktop\SEDC\C#Basic Homework\SEDC.Oop.Class03.Homework\SEDC.Oop.Class03.Homework.SumOfEven\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Homework.SumOfEven.genruntimeconfig.cache
